@@ -1,0 +1,1 @@
+This repository contain the project's file on report presenting a comparative scientometric analysis of three research domains: Digital Humanities (DH), Computational Social Science (CSS), and Digital Methods (DM)
