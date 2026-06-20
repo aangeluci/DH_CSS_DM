@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: Digital Humanities, Computational Social Science and Digital Methods Dataset
+message: "Please cite this repository as follows."
+authors:
+  - family-names: Angeluci
+    given-names: Alan Cesar Belo
+    orcid: "https://orcid.org/0000-0002-xxxx-xxxx"
+
+  - family-names: Falandes
+    given-names: Carolina Gois
+    orcid: "https://orcid.org/0000-0001-6639-2121"
+
+version: 1.0.0
+date-released: 2026-06-20
